@@ -37,9 +37,7 @@
     margin-right: 25px;
     text-decoration: none;
     color: #F9FAFB;
-    font-family: Inter;
     font-weight: 600;
-    font-size: 16px;
     line-height: 100%;
 }
 
@@ -60,9 +58,7 @@
     margin-left: 10px;
     text-decoration: none;
     color: #F9FAFB;
-    font-family: Inter;
     font-weight: 500;
-    font-size: 16px;
     line-height: 100%;
 }
 
@@ -87,9 +83,7 @@
     top: 5px;
     margin-left: 10px;
     text-decoration: none;
-    font-family: Inter;
     font-weight: 500;
-    font-size: 16px;
     line-height: 100%;
 }
 
@@ -122,7 +116,6 @@
 
 .header-nav-item-catalog {
     margin: 10px;
-    font-family: Inter;
     font-weight: 600;
     font-size: 14px;
     line-height: 100%;
@@ -134,7 +127,6 @@
     cursor: pointer;
     margin: 5px;
     color: #3C3C3B;
-    font-family: Inter;
     font-weight: 600;
     font-size: 14px;
     line-height: 100%;
@@ -171,7 +163,6 @@ input[type="search"] {
     position: relative;
     top: -1px;
     text-decoration: none;
-    font-family: Inter;
     font-weight: 500;
     font-size: 14px;
     line-height: 14px;
@@ -214,7 +205,6 @@ input[type="search"] {
 
 .span-item {
     width: 333px;
-    font-family: Inter;
     font-weight: 500;
     font-size: 18px;
 }
@@ -230,7 +220,6 @@ input[type="search"] {
     justify-content: end;
     
     &-button {
-        font-family: inter;
         border: none;
         background: none;
         color: #A1A0A0;
@@ -268,14 +257,12 @@ input[type="search"] {
 .item-cards__grid-left-text {
     font-size: 28px;
     font-weight: 600;
-    font-family: inter;
     color: #3C3C3B;
 }
 
 .item-cards__grid-left-action {
     font-size: 14px;
     font-weight: 400;
-    font-family: inter;
     color: #3C3C3B;
     align-self: end;
     display: flex;
@@ -314,7 +301,6 @@ input[type="search"] {
 }
 
 .item-cards__grid-right-block-first-text{
-    font-family: Inter;
     font-weight: 600;
     font-size: 28px;
     line-height: 100%;
@@ -325,7 +311,6 @@ input[type="search"] {
 .item-cards__grid-right-block-first-text-action {
     font-size: 14px;
     font-weight: 400;
-    font-family: inter;
     color: #3C3C3B;
     align-self: end;
     display: flex;
@@ -356,7 +341,6 @@ input[type="search"] {
 }
 
 .item-cards__grid-right-block-second-text{
-    font-family: Inter;
     font-weight: 600;
     font-size: 28px;
     line-height: 100%;
@@ -369,7 +353,6 @@ input[type="search"] {
 .item-cards__grid-right-block-second-text-action {
     font-size: 14px;
     font-weight: 400;
-    font-family: inter;
     color: #3C3C3B;
     align-self: auto;
     display: flex;
@@ -400,7 +383,6 @@ input[type="search"] {
 }
 
 .item-cards__grid-right-block-third-text{
-    font-family: Inter;
     font-weight: 600;
     font-size: 28px;
     line-height: 100%;
@@ -413,7 +395,6 @@ input[type="search"] {
 .item-cards__grid-right-block-third-text-action {
     font-size: 14px;
     font-weight: 400;
-    font-family: inter;
     color: #3C3C3B;
     align-self: auto;
     display: flex;
@@ -443,7 +424,6 @@ input[type="search"] {
 }
 
 .item-cards__grid-right-block-fourth-text{
-    font-family: Inter;
     font-weight: 600;
     font-size: 28px;
     line-height: 100%;
@@ -454,7 +434,6 @@ input[type="search"] {
 .item-cards__grid-right-block-fourth-text-action {
     font-size: 14px;
     font-weight: 400;
-    font-family: inter;
     color: #3C3C3B;
     align-self: end;
     display: flex;
@@ -525,7 +504,6 @@ input[type="search"] {
 }
 
 .popular-cards__information-text-left {
-    font-family: Inter;
     font-weight: 500;
     font-size: 28px;
     line-height: 100%;
@@ -537,7 +515,6 @@ input[type="search"] {
 .popular-cards__information-text-right {
     width: 218px;
     height: 22px;
-    font-family: Inter;
     font-weight: 600;
     font-size: 18px;
     line-height: 100%;
@@ -583,7 +560,6 @@ input[type="search"] {
 }
 
 .popular-cards__information-text {
-    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     color: #3C3C3B;
@@ -594,9 +570,7 @@ input[type="search"] {
 }
 
 .popular-cards__information-articl {
-    font-family: Inter;
     font-weight: 500;
-    font-size: 16px;
     color: #3C3C3B;
     width: 261px;
     height: 19px;
@@ -616,9 +590,7 @@ input[type="search"] {
 }
 
 .popular-cards__information-price-inside {
-    font-family: Inter;
     font-weight: 500;
-    font-size: 16px;
     line-height: 100%;
     color: #A1A0A0;
     width: 115px;
@@ -635,9 +607,7 @@ input[type="search"] {
 }
 
 .popular-cards__information-price-text {
-    font-family: Inter;
     font-weight: 600;
-    font-size: 16px;
     line-height: 100%;
     color: #3C3C3B;
     width: 58px;
@@ -647,7 +617,6 @@ input[type="search"] {
 }
 
 .popular-cards__information-price-second {
-    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     line-height: 100%;
@@ -681,9 +650,7 @@ input[type="search"] {
 .popular-cards__information-quantity-text {
     width: 94px;
     height: 19px;
-    font-family: Inter;
     font-weight: 500;
-    font-size: 16px;
     line-height: 100%;
 }
 
@@ -699,9 +666,7 @@ input[type="search"] {
     background-color: #FFFFFF;
     width: 8px;
     height: 19px;
-    font-family: Inter;
     font-weight: 400;
-    font-size: 16px;
     line-height: 100%;
     padding: 0px 0px;
 }
@@ -711,9 +676,7 @@ input[type="search"] {
     background-color: #FFFFFF;
     width: 11px;
     height: 19px;
-    font-family: Inter;
     font-weight: 400;
-    font-size: 16px;
     line-height: 100%;
     padding: 0px 0px;
 }
@@ -723,7 +686,6 @@ input[type="search"] {
     background-color: #FFFFFF;
     width: 10px;
     height: 24px;
-    font-family: Inter;
     font-weight: 500;
     font-size: 20px;
     line-height: 100%;
@@ -736,9 +698,7 @@ input[type="search"] {
     background-color: #FFFFFF;
     color: #3C3C3B;
     text-decoration: none;
-    font-family: Inter;
     font-weight: 500;
-    font-size: 16px;
     width: 135px;
     height: 47px;
     border-radius: 54px;
@@ -784,7 +744,6 @@ input[type="search"] {
     position: absolute;
     top: 28px;
     left: 28px;
-    font-family: Inter;
     font-weight: 500;
     font-size: 28px;
     line-height: 100%;
@@ -798,7 +757,6 @@ input[type="search"] {
     position: absolute;
     top: 78px;
     left: 28px;
-    font-family: Inter;
     font-weight: 400;
     font-size: 20px;
     line-height: 100%;
@@ -808,7 +766,6 @@ input[type="search"] {
 .banner-silka {
     width: 167px;
     height: 22px;
-    font-family: Inter;
     font-weight: 600;
     font-size: 18px;
     line-height: 100%;
@@ -845,7 +802,6 @@ input[type="search"] {
 }
 
 .new-cards__information-text-left {
-    font-family: Inter;
     font-weight: 500;
     font-size: 28px;
     line-height: 100%;
@@ -857,7 +813,6 @@ input[type="search"] {
 .new-cards__information-text-right {
     width: 218px;
     height: 22px;
-    font-family: Inter;
     font-weight: 600;
     font-size: 18px;
     line-height: 100%;
@@ -903,7 +858,6 @@ input[type="search"] {
 }
 
 .new-cards__information-text {
-    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     color: #3C3C3B;
@@ -914,9 +868,7 @@ input[type="search"] {
 }
 
 .new-cards__information-articl {
-    font-family: Inter;
     font-weight: 500;
-    font-size: 16px;
     color: #3C3C3B;
     width: 261px;
     height: 19px;
@@ -936,9 +888,7 @@ input[type="search"] {
 }
 
 .new-cards__information-price-inside {
-    font-family: Inter;
     font-weight: 500;
-    font-size: 16px;
     line-height: 100%;
     color: #A1A0A0;
     width: 115px;
@@ -955,9 +905,7 @@ input[type="search"] {
 }
 
 .new-cards__information-price-text {
-    font-family: Inter;
     font-weight: 600;
-    font-size: 16px;
     line-height: 100%;
     color: #3C3C3B;
     width: 58px;
@@ -967,7 +915,6 @@ input[type="search"] {
 }
 
 .new-cards__information-price-second {
-    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     line-height: 100%;
@@ -1001,9 +948,7 @@ input[type="search"] {
 .new-cards__information-quantity-text {
     width: 94px;
     height: 19px;
-    font-family: Inter;
     font-weight: 500;
-    font-size: 16px;
     line-height: 100%;
 }
 
@@ -1019,9 +964,7 @@ input[type="search"] {
     background-color: #FFFFFF;
     width: 8px;
     height: 19px;
-    font-family: Inter;
     font-weight: 400;
-    font-size: 16px;
     line-height: 100%;
     padding: 0px 0px;
 }
@@ -1031,9 +974,7 @@ input[type="search"] {
     background-color: #FFFFFF;
     width: 11px;
     height: 19px;
-    font-family: Inter;
     font-weight: 400;
-    font-size: 16px;
     line-height: 100%;
     padding: 0px 0px;
 }
@@ -1043,7 +984,6 @@ input[type="search"] {
     background-color: #FFFFFF;
     width: 10px;
     height: 24px;
-    font-family: Inter;
     font-weight: 500;
     font-size: 20px;
     line-height: 100%;
@@ -1056,9 +996,7 @@ input[type="search"] {
     background-color: #FFFFFF;
     color: #3C3C3B;
     text-decoration: none;
-    font-family: Inter;
     font-weight: 500;
-    font-size: 16px;
     width: 135px;
     height: 47px;
     border-radius: 54px;
@@ -1129,7 +1067,6 @@ input[type="search"] {
 .footer-upper-logo-right-contact {
     width: 123px;
     height: 15px;
-    font-family: Inter;
     font-weight: 400;
     font-size: 12px;
     line-height: 100%;
@@ -1141,9 +1078,7 @@ input[type="search"] {
 .footer-upper-logo-right-contact-number {
     width: 161px;
     height: 19px;
-    font-family: Inter;
     font-weight: 500;
-    font-size: 16px;
     line-height: 100%;
     letter-spacing: 0%;
     vertical-align: middle;
@@ -1169,7 +1104,6 @@ input[type="search"] {
 .footer-upper-logo-left-text {
     width: 114px;
     height: 15px;
-    font-family: Inter;
     font-weight: 400;
     font-size: 12px;
     line-height: 100%;
@@ -1181,9 +1115,7 @@ input[type="search"] {
 .footer-upper-logo-left-contact {
     width: 130px;
     height: 19px;
-    font-family: Inter;
     font-weight: 500;
-    font-size: 16px;
     line-height: 100%;
     letter-spacing: 0%;
     vertical-align: middle;
@@ -1217,7 +1149,6 @@ input[type="search"] {
 .footer-upper-right-block-inside-text {
     width: 182px;
     height: 22px;
-    font-family: Inter;
     font-weight: 700;
     font-size: 18px;
     line-height: 100%;
@@ -1227,7 +1158,6 @@ input[type="search"] {
 .footer-upper-right-block-inside-text-second {
     width: 534px;
     height: 48px;
-    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
@@ -1268,7 +1198,6 @@ input[type="search"] {
 .input-search-footer {
     width: 300px;
     height: 15px;
-    font-family: Inter;
     font-size: 12px;
     border: none;
     background-color: #4B565E;
@@ -1288,7 +1217,6 @@ input[type="search"] {
     border-radius: 30px;
     border: none;
     color: #FFFFFF;
-    font-family: Inter;
     font-weight: 700;
     font-size: 10px;
     margin-right: 6px;
@@ -1319,7 +1247,6 @@ input[type="search"] {
 }
 
 .footer-lower-block-inside-information {
-    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 100%;
@@ -1344,7 +1271,6 @@ input[type="search"] {
 .footer-lower-block-inside-data {
     width: 1208px;
     height: 17px;
-    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 100%;
